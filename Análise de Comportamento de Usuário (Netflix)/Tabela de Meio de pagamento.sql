@@ -1,0 +1,3 @@
+select distinct(payment_method)
+into dbo.meio_pagamento
+from netflix_user_behavior_dataset
