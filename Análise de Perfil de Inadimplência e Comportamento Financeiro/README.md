@@ -40,13 +40,13 @@ O objetivo foi identificar padrões de inadimplência e compreender quais caract
 ## Dashboard
 
 ### Tela Inicial
-![Tela Inicial](Imagens\tela-inicial.png)
+![Tela Inicial](Imagens/tela-inicial.png)
 
 ### Panorama da Carteira
-![Panorama da Carteira](Imagens\panorama-da-carteira.png)
+![Panorama da Carteira](Imagens/panorama-da-carteira.png)
 
 ### Perfil dos Clientes
-![Perfil dos clientes](Imagens\perfil-dos-clientes.png)
+![Perfil dos clientes](Imagens/perfil-dos-clientes.png)
 
 ## Principais Insights
 
