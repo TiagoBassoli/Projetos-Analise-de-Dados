@@ -1,4 +1,4 @@
--- 1° Passo) Importei nesse banco de dados o arquivo csv, pelo 'Import flat file', agora vou criar uma tabela pra armazenzar cada valor
+-- 1° Passo) Importei nesse banco de dados o arquivo csv, pelo 'Import flat file', agora vou criar uma tabela pra armazenar cada valor
 -- Já vou tratando valores nulos, eles correspondem a 10% da base e traduzindo a base pro português
 SELECT 
     person_age as idade,
