@@ -40,13 +40,13 @@ O objetivo foi identificar padrões de inadimplência e compreender quais caract
 ## Dashboard
 
 ### Tela Inicial
-![Tela Inicial]("C:\Users\tiago\OneDrive\Imagens\Screenshots\Captura de tela 2026-07-07 093135.png")
+![Tela Inicial](Imagens\Captura de tela 2026-07-07 093135.png)
 
 ### Panorama da Carteira
-![Panorama da Carteira]("C:\Users\tiago\OneDrive\Imagens\Screenshots\Captura de tela 2026-07-08 085616.png")
+![Panorama da Carteira](Imagens\Captura de tela 2026-07-08 085616.png)
 
 ### Perfil dos Clientes
-![Perfil dos clientes]("C:\Users\tiago\OneDrive\Imagens\Screenshots\Captura de tela 2026-07-08 085625.png")
+![Perfil dos clientes](Imagens\Captura de tela 2026-07-08 085625.png)
 
 ## Principais Insights
 
