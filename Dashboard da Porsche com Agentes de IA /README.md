@@ -1,4 +1,4 @@
-# 📊🚘 Dashboard da Porsche com Agentes de IA 🤖
+# 🚘📊 Dashboard da Porsche com Agentes de IA 🤖
 Projeto desenvolvido com ChatGPT e Claude usando base de dados fictícia da Porsche
 O objetivo foi demonstrar como agentes de IA podem contribuir para criação de Dashboards profissionais e úteis para tomada de decisão com base em dados já tratados.
 
